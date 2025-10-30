@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://apps.apple.com/kg/app/id6739448069"><img src="https://img.shields.io/badge/Bulak%20Media-%F0%9F%93%B1-blue?style=for-the-badge" /></a>
-  <a href="https://github.com/Xafizmac"><img src="https://img.shields.io/github/followers/Xafizmac?label=Follow&style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/Xafizmac"><img src="https://img.shields.io/github/followers/Xafizbey?label=Follow&style=for-the-badge&logo=github" /></a>
   <a href="https://www.linkedin.com/in/hafiz-fullstack-335003271/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="https://www.instagram.com/hafizbey_official/"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
