@@ -47,8 +47,8 @@ an app that helps people learn about a balanced and meaningful lifestyle 🕊️
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Xafizmac&show_icons=true&theme=radical" alt="Hafiz GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xafizmac&layout=compact&theme=radical" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Xafizbey&show_icons=true&theme=radical" alt="Hafiz GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xafizbey&layout=compact&theme=radical" alt="Top Languages" height="165"/>
 </p>
 
 ---
