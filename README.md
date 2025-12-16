@@ -64,4 +64,4 @@ an app that helps people learn about a balanced and meaningful lifestyle 🕊️
 
 ---
 
-⭐️ From [@Xafizmac](https://github.com/Xafizbey)
+⭐️ From [@Xafizbey](https://github.com/Xafizbey)
