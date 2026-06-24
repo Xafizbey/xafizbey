@@ -11,7 +11,7 @@
 ---
 
 ### 🔭 Currently working on
-🎯 [**Bulak Media**](https://apps.apple.com/kg/app/id6739448069) —  
+🎯 [**Kausar**](https://apps.apple.com/kg/app/id6739448069) —  
 an app that helps people learn about a balanced and meaningful lifestyle 🕊️
 
 ---
